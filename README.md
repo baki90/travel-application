@@ -2,7 +2,8 @@
 - 여행 일기를 작성할 수 있는 어플리케이션이다.
 - Android Studio(JAVA), SQLite
 - 카메라, 파일 접근, 위치 권한 검사
-  ![image](https://user-images.githubusercontent.com/30331087/85938604-d2496d00-b949-11ea-9c49-003a3443d169.png)
+
+  ![image](https://user-images.githubusercontent.com/30331087/85938972-bf846780-b94c-11ea-9179-4215eb20d15a.png)
   - ListView / Map / Diary Fragment
 
 ## Map
