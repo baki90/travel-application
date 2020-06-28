@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">miniproject</string>
+    <string name="title_home">List</string>
+    <string name="title_dashboard">Map</string>
+    <string name="title_notifications">Diary</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_detail">Map</string>
+
+
+    <string name="kakao_app_key">3ad4d7c71f2f20f82cddff4d25b47ee5</string>
+    <string name="kakao_scheme">kakao3ad4d7c71f2f20f82cddff4d25b47ee5</string>
+    <string name="kakaolink_host">kakaolink</string>
+
+</resources>
