@@ -1,11 +1,9 @@
 # travel-app
-- 여행 관리 어플리케이션
+- 여행 일기를 작성할 수 있는 어플리케이션이다.
 - Android Studio(JAVA), SQLite
-- ListView / Map / Diary Fragment 존재
 - 카메라, 파일 접근, 위치 권한 검사
-- Map에서 여행지를 클릭하고, 기록하면 ListView에서 여행지를 확인해 볼 수 있음
-- 각 여행에서 느꼈던 점을 날짜별 캘린더를 통해 작성할 수 있다.
   ![image](https://user-images.githubusercontent.com/30331087/85938604-d2496d00-b949-11ea-9c49-003a3443d169.png)
+  - ListView / Map / Diary Fragment
 
 ## Map
 - 플로팅 버튼 클릭 시 아이템 추가가 가능하며, 사진을 올릴 수 있다.
