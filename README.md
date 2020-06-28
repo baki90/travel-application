@@ -7,7 +7,7 @@
 
 ## Map
 - 플로팅 버튼 클릭 시 아이템 추가가 가능하며, 사진을 올릴 수 있다.
-- 내용에서는 share을 통해 카카오톡 공유하기가 가능하다. 이는 카카오 api를 사용하였다.
+- 내용에서는 share을 통해 카카오톡 공유하기가 가능하다. 카카오 api를 사용하였다.
   ![image](https://user-images.githubusercontent.com/30331087/85938798-48020880-b94b-11ea-9a7b-57daeedb456a.png)
 
 
