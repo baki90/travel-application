@@ -11,8 +11,8 @@
     <string name="title_activity_detail">Map</string>
 
 
-    <string name="kakao_app_key">3ad4d7c71f2f20f82cddff4d25b47ee5</string>
-    <string name="kakao_scheme">kakao3ad4d7c71f2f20f82cddff4d25b47ee5</string>
+    <string name="kakao_app_key"></string>
+    <string name="kakao_scheme"></string>
     <string name="kakaolink_host">kakaolink</string>
 
 </resources>
